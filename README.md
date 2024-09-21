@@ -2,7 +2,7 @@
 
 This calculator compares products and shows which one is more profitable based on price per kilogram.
 
-## Features
+## Features 
 
 - **Product Comparison**: Input the weight and total price of multiple products, and the calculator will display the price per kilogram for each.
 - **Clear Input**: Easily reset all fields to start a new comparison.
