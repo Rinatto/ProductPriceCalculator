@@ -12,8 +12,8 @@ This calculator compares products and shows which one is more profitable based o
 ## How to Use
 
 1. Enter the weight (in kilograms) and total price for each product.
-2. Click the "Compare" button to see the price per kilogram for each product.
-3. Optionally, clear the inputs using the "Clear" button to start a new comparison.
+2. Click the "Рассчитать" button to see the price per kilogram for each product.
+3. Optionally, clear the inputs using the "Очистить" button to start a new comparison.
 
 ## Installation
 
