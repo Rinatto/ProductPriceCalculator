@@ -1,7 +1,7 @@
 # Discount Calculator
 
 [Check out the deployed app on Netlify](https://master--product-price-calculator.netlify.app/)
-This calculator compares products and shows which one is more profitable based on price per kilogram.
+This calculator compares products and shows which one is more profitable based on price per kilogram.  
 
 ## Features 
 
